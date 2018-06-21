@@ -1,0 +1,50 @@
+Funções da MySQL
+<============================================================================================>
+mysql_affected_rows ------- Obtém o número de linhas afetadas na operação anterior do MySQL
+mysql_client_encoding ------Retorna o nome do conjunto de caracteres
+mysql_close --------------- Fecha a conexão MySQL
+mysql_connect ------------- Abre uma conexão com um servidor MySQL
+mysql_create_db ----------- Cria um banco de dados MySQL
+mysql_data_seek ----------- Move o ponteiro interno do resultado
+mysql_db_name ------------- Obtém o nome do banco de dados a partir da chamada à mysql_list_dbs
+mysql_db_query ------------ Envia uma consulta MySQL
+mysql_drop_db ------------- Drop (exclui) um banco de dados MySQL
+mysql_errno --------------- Retorna o valor numérico da mensagem de erro da operação MySQL anterior
+mysql_error --------------- Retorna o texto da mensagem de erro da operação MySQL anterior
+mysql_escape_string ------- Escapa uma string para usar em uma consulta MySQL
+mysql_fetch_array --------- Obtém uma linha como uma matriz associativa, uma matriz numérica, ou ambas
+mysql_fetch_assoc --------- Obtém uma linha do resultado como um array associativo
+mysql_fetch_field --------- Obtém informações sobre uma coluna de um resultado e retorna como um objeto
+mysql_fetch_lengths ------- Obtém o tamanho de cada saída de um resultado
+mysql_fetch_object -------- Obtém o resultado de uma linha como um objeto
+mysql_fetch_row ----------- Obtém uma linha como um array numérico
+mysql_field_flags --------- Obtém as flags associadas ao campo especificado em um resultado
+mysql_field_len ----------- Retorna o tamanho do campo especificado
+mysql_field_name ---------- Obtém o nome do campo especificado em um resultado
+mysql_field_seek ---------- Define o ponteiro do resultado para o índice de campo especificado
+mysql_field_table --------- Obtém o nome da tabela na qual o campo especificado esta
+mysql_field_type ---------- Obtém o tipo do campo especificado em um resultado
+mysql_free_result --------- Libera um resultado da memória
+mysql_get_client_info ----- Obtém informações do cliente MySQL
+mysql_get_host_info ------- Obtém informações do servidor MySQL
+mysql_get_proto_info ------ Obtém informações do protocolo MySQL
+mysql_get_server_info ----- Obtém informações do servidor MySQL
+mysql_info ---------------- Obtém informação sobre a consulta mais recente
+mysql_insert_id ----------- Obtém o ID gerado pela operação INSERT anterior
+mysql_list_dbs ------------ Lista os bancos de dados disponíveis em um servidor MySQL
+mysql_list_fields --------- Lista os campos de uma tabela MySQL
+mysql_list_processes ------ Lista os processos MySQL
+mysql_list_tables --------- Lista as tabelas em um banco de dados MySQL
+mysql_num_fields ---------- Obtém o numero de campos em um resultado
+mysql_num_rows ------------ Obtém o número de linhas em um resultado
+mysql_pconnect ------------ Abre uma conexão persistente com um servidor MySQL
+mysql_ping ---------------- Pinga uma conexão com o servidor ou reconecta se não houver conexão
+mysql_query --------------- Envia uma consulta MySQL
+mysql_real_escape_string -- Escapa os caracteres especiais numa string para usar em um comando SQL, levando em conta o conjunto atual de caracteres.
+mysql_result -------------- Retorna dados do resultado
+mysql_select_db ----------- Seleciona um banco de dados MySQL
+mysql_set_charset --------- Sets the client character set
+mysql_stat ---------------- Retorna o status atual do sistema
+mysql_tablename ----------- Retorna o nome da tabela do campo
+mysql_thread_id ----------- Returna o ID da thread atual
+mysql_unbuffered_query ---- Envia uma query para o MySQL, sem retornar e colocar em buffer as linhas do resultado
