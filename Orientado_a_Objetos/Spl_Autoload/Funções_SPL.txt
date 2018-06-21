@@ -1,0 +1,15 @@
+class_implements --------- Retorna as interfaces que são implementadas pela classe
+class_parents ------------ Retorna as classes pai de determinada classe
+class_uses --------------- Return the traits used by the given class
+iterator_apply ----------- Call a function for every element in an iterator
+iterator_count ----------- Conta o número de elementos do iterador
+iterator_to_array -------- Copia o iterador em um array
+spl_autoload_call -------- Tenta todas as funções __autoload() registradas para carregar a classe solicitada
+spl_autoload_extensions -- Registra e retorna as extensões de arquivo padrões para o spl_autoload
+spl_autoload_functions --- Retorna todas as funções __autoload() registradas
+spl_autoload_register ---- Registra a função dada como implementação de __autoload()
+spl_autoload_unregister -- Retira a função dada como implementação de __autoload()
+spl_autoload ------------- Implementação padrão de __autoload()
+spl_classes -------------- Retorna as classes da SPL disponíveis
+spl_object_hash ---------- Retorna uma identificação hash do objeto dado
+spl_object_id ------------ Return the integer object handle for given object
