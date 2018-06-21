@@ -12,14 +12,10 @@ function incluirClasses($nomeClasse){
 	}
 	
 }
-
+spl_autoload_register("incluirClasses");
 // Spl_autoload_register executa todas as requisições de uma classe a partir de uma função
 
-spl_autoload_register("incluirClasses");
-
-
 /* <===============================================================================================> */
-
 
 // Uma outra forma de fazer a função é criando ela dentro de spl_autoload_register (Função anônima).
 
