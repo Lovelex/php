@@ -17,6 +17,10 @@ function incluirClasses($nomeClasse){
 
 spl_autoload_register("incluirClasses");
 
+
+/* <===============================================================================================> */
+
+
 // Uma outra forma de fazer a função é criando ela dentro de spl_autoload_register (Função anônima).
 
 spl_autoload_register(function($nomeClasse){
