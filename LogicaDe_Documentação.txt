@@ -1,12 +1,14 @@
-Pseudo-tipos e variáveis utilizadas nesta documentação 
+﻿Pseudo-tipos e variáveis utilizadas nesta documentação 
 -----------------------------------------------------------------------------
 
 mixed 
-mixed indica que um parâmetro pode aceitar vários (mas não necessariamente todos) os tipos.
+mixed indica que um parâmetro pode aceitar vários (mas não necessariamente 
+todos) os tipos.
 
 <===========================================================================>
 
-gettype(), por exemplo, aceita todos os tipos do PHP, enquanto que a função str_replace() aceita somente strings e arrays.
+gettype(), por exemplo, aceita todos os tipos do PHP, enquanto que a função 
+str_replace() aceita somente strings e arrays.
 
 <===========================================================================>
 
@@ -16,7 +18,9 @@ number indica que um parâmetro pode ser tanto um integer ou float.
 <===========================================================================>
 
 callback 
-O psedo-tipo callback era utilizado nesta documentação antes da introdução da declaração de tipo callable pelo PHP 5.4. Isso significa exatamente o mesmo.
+O psedo-tipo callback era utilizado nesta documentação antes da introdução
+da declaração de tipo callable pelo PHP 5.4. Isso significa exatamente
+o mesmo.
 
 <===========================================================================>
 
@@ -26,9 +30,11 @@ array|object indica que o parâmetro pode ser tanto array quanto object.
 <===========================================================================>
 
 void 
-void no tipo de retorno indica que não há valor a ser retornado. void na lista de parâmetros indica que a função não aceita parâmetros.
+void no tipo de retorno indica que não há valor a ser retornado. void na 
+lista de parâmetros indica que a função não aceita parâmetros.
 
 <===========================================================================>
 
 ... 
-$... no protótipo de uma função significa e assim por diante. Este nome de variável é utilizado quando a função suporta um número infinito de argumentos.
+$... no protótipo de uma função significa e assim por diante. Este nome de 
+variável é utilizado quando a função suporta um número infinito de argumentos.
