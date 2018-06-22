@@ -18,9 +18,10 @@ number indica que um parâmetro pode ser tanto um integer ou float.
 <===========================================================================>
 
 callback 
-O psedo-tipo callback era utilizado nesta documentação antes da introdução
-da declaração de tipo callable pelo PHP 5.4. Isso significa exatamente
-o mesmo.
+Algumas funções como call_user_func() ou usort() aceitam funções de callback 
+definidas pelo usuário como parâmetro. Funções de callback não precisam ser 
+apenas funções simples, mas também métodos de objetos, incluindo
+os estáticos..
 
 <===========================================================================>
 
