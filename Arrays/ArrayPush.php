@@ -8,6 +8,10 @@ array_push($pessoas, array(
 		'idade' => '24'	
 
 )) ;
+
+// array_push "empurra" um bloco de informações no final de um array
+// 
+
 array_push($pessoas, array(
 
 		'nome'  => 'André',
@@ -15,6 +19,8 @@ array_push($pessoas, array(
 ));
 
 
-print_r($pessoas);
+$json = json_encode($pessoas);
+
+echo $json;
 
 ?>
