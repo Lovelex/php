@@ -1,46 +1,46 @@
-Software propriet·rio
-Neste tipo de licenÁa, toda a cÛpia, redistribuiÁ„o (o termo ìpassar a alguÈmî), ou modificaÁ„o s„o estritamente proibidas, o que pode levar a processos judiciais. Para contornar as restriÁıes anteriormente referidas, deve-se contactar o criador para que este dÍ permiss„o para o fazer, ou ent„o adquirir uma licenÁa para cada um dos casos anteriormente descritos.
+Software propriet√°rio
+Neste tipo de licen√ßa, toda a c√≥pia, redistribui√ß√£o (o termo ‚Äúpassar a algu√©m‚Äù), ou modifica√ß√£o s√£o estritamente proibidas, o que pode levar a processos judiciais. Para contornar as restri√ß√µes anteriormente referidas, deve-se contactar o criador para que este d√™ permiss√£o para o fazer, ou ent√£o adquirir uma licen√ßa para cada um dos casos anteriormente descritos.
 
-Neste tipo de licenÁa, encontramos vinculados alguns dos mais conhecidos programas mundiais, caso do Windows, Adobe Photoshop, Adobe Dreamweaver, Adobe Flash, Mac OS, entre outrosÖ
+Neste tipo de licen√ßa, encontramos vinculados alguns dos mais conhecidos programas mundiais, caso do Windows, Adobe Photoshop, Adobe Dreamweaver, Adobe Flash, Mac OS, entre outros‚Ä¶
 
 
 
 GNU General Public License (GPL)
-O GPL È a licenÁa com maior utilizaÁ„o por parte de projectos de software livre, em grande parte pela sua utilizaÁ„o no mundo Linux.
+O GPL √© a licen√ßa com maior utiliza√ß√£o por parte de projectos de software livre, em grande parte pela sua utiliza√ß√£o no mundo Linux.
 
-3 grandes restriÁıes que gerem e protegem o software com licenÁa GPL:
+3 grandes restri√ß√µes que gerem e protegem o software com licen√ßa GPL:
 
--Software livre pode ser distribuÌdo e comercializado por qualquer pessoa, mas o distribuidor tem de avisar o receptor acerca dos termos GPL
--Qualquer pacote de software derivado de software protegido pela GPL, tambÈm tem de estar abrangido pela GPL
--CÛdigo fonte de todo o software protegido pela GPL tem de estar acessÌvel publicamente
+-Software livre pode ser distribu√≠do e comercializado por qualquer pessoa, mas o distribuidor tem de avisar o receptor acerca dos termos GPL
+-Qualquer pacote de software derivado de software protegido pela GPL, tamb√©m tem de estar abrangido pela GPL
+-C√≥digo fonte de todo o software protegido pela GPL tem de estar acess√≠vel publicamente
 
 
 
 Software livre
-O conceito ìSoftware Livreî refere-se a qualquer programa que pode ser usado, copiado, estudado, modificado e redistribuÌdo sem nenhuma restriÁ„o. Este conceito opıe-se ao conceito de ìsoftware propriet·rioî, mas n„o ao termo de ìsoftware comercialî. Este tipo de licenÁa, como o prÛprio nome d· a entender, baseia-se em quatro liberdades:
+O conceito ‚ÄúSoftware Livre‚Äù refere-se a qualquer programa que pode ser usado, copiado, estudado, modificado e redistribu√≠do sem nenhuma restri√ß√£o. Este conceito op√µe-se ao conceito de ‚Äúsoftware propriet√°rio‚Äù, mas n√£o ao termo de ‚Äúsoftware comercial‚Äù. Este tipo de licen√ßa, como o pr√≥prio nome d√° a entender, baseia-se em quatro liberdades:
 
-Liberdade de executar o programa, para qualquer propÛsito;
-Liberdade de estudar como o programa funciona e adapt·-lo para as suas necessidades. Para tal o acesso ao cÛdigo ñ fonte È necess·rio.
-Liberdade de redistribuir cÛpias de modo que vocÍ possa ajudar ao seu prÛximo.
-Liberdade de aperfeiÁoar o programa, e libertar os seus aperfeiÁoamentos, para que deste modo, toda a comunidade se beneficie deles. Para tal o acesso ao cÛdigo ñ fonte È necess·rio.
+Liberdade de executar o programa, para qualquer prop√≥sito;
+Liberdade de estudar como o programa funciona e adapt√°-lo para as suas necessidades. Para tal o acesso ao c√≥digo ‚Äì fonte √© necess√°rio.
+Liberdade de redistribuir c√≥pias de modo que voc√™ possa ajudar ao seu pr√≥ximo.
+Liberdade de aperfei√ßoar o programa, e libertar os seus aperfei√ßoamentos, para que deste modo, toda a comunidade se beneficie deles. Para tal o acesso ao c√≥digo ‚Äì fonte √© necess√°rio.
 
 
 
-CÛdigo aberto
-Normalmente, gosto mais de utilizar o termo em inglÍs ìopen sourceî e refere-se ao mesmo software chamado de software livre, ou seja aquele que respeita as quatro liberdades anteriormente referidas. A ˙nica diferenÁa entre os dois est· no discurso. Enquanto o termo ìsoftware livreî È usado em questıes Èticas, direitos e liberdade, o termo ìcÛdigo abertoî È utilizado para discursar sobre o ponto de vista puramente tÈcnico, sem que leve a conflitos de questıes Èticas.
+C√≥digo aberto
+Normalmente, gosto mais de utilizar o termo em ingl√™s ‚Äúopen source‚Äù e refere-se ao mesmo software chamado de software livre, ou seja aquele que respeita as quatro liberdades anteriormente referidas. A √∫nica diferen√ßa entre os dois est√° no discurso. Enquanto o termo ‚Äúsoftware livre‚Äù √© usado em quest√µes √©ticas, direitos e liberdade, o termo ‚Äúc√≥digo aberto‚Äù √© utilizado para discursar sobre o ponto de vista puramente t√©cnico, sem que leve a conflitos de quest√µes √©ticas.
 
 
 
 Software comercial
-Software desenvolvido por uma empresa com fins lucrativos com a sua utilizaÁ„o. … de referir que ìcomercialî e ìpropriet·rioî n„o s„o o mesmo, pois, a maioria do software comercial È software propriet·rio mas existe software livre que È comercial, e existe software n„o-livre e n„o-comercial (software propriet·rio que n„o esta a venda por nenhum preÁo, apenas existem limitaÁıes a nÌvel de modificaÁ„o do mesmo).
+Software desenvolvido por uma empresa com fins lucrativos com a sua utiliza√ß√£o. √â de referir que ‚Äúcomercial‚Äù e ‚Äúpropriet√°rio‚Äù n√£o s√£o o mesmo, pois, a maioria do software comercial √© software propriet√°rio mas existe software livre que √© comercial, e existe software n√£o-livre e n√£o-comercial (software propriet√°rio que n√£o esta a venda por nenhum pre√ßo, apenas existem limita√ß√µes a n√≠vel de modifica√ß√£o do mesmo).
 
 
 
 Software gratuito (freeware)
-Mais conhecido por freeware È qualquer programa cuja utilizaÁ„o n„o implica o pagamento de licenÁas para a sua utilizaÁ„o.
+Mais conhecido por freeware √© qualquer programa cuja utiliza√ß√£o n√£o implica o pagamento de licen√ßas para a sua utiliza√ß√£o.
 
-Mas n„o se enganem que para este tipo de licenÁa que n„o È necess·rio o contrato de licenciamento para a sua utilizaÁ„o. Normalmente, ao instalar um software deste tipo, o utilizador dever· concordar com o seu contrato de licenciamento que normalmente acompanha o programa, pois neste podem estar restriÁıes como sendo freeware de uso pessoal, acadÈmico, militar e governamental. Pois, n„o È por ser freeware que ele pode ser utilizado por qualquer um.
+Mas n√£o se enganem que para este tipo de licen√ßa que n√£o √© necess√°rio o contrato de licenciamento para a sua utiliza√ß√£o. Normalmente, ao instalar um software deste tipo, o utilizador dever√° concordar com o seu contrato de licenciamento que normalmente acompanha o programa, pois neste podem estar restri√ß√µes como sendo freeware de uso pessoal, acad√©mico, militar e governamental. Pois, n√£o √© por ser freeware que ele pode ser utilizado por qualquer um.
 
-Normalmente os programas deste tipo n„o apresentam o seu cÛdigo fonte, apenas apresenta o execut·vel. Programas do tipo adware n„o s„o considerados gratuitos, mesmo que n„o seja necess·rio pagar, pois tem sempre um custo a pagar, nem que seja visualizar a publicidade quer seja o reencaminhado para p·ginas web, entre outras.
+Normalmente os programas deste tipo n√£o apresentam o seu c√≥digo fonte, apenas apresenta o execut√°vel. Programas do tipo adware n√£o s√£o considerados gratuitos, mesmo que n√£o seja necess√°rio pagar, pois tem sempre um custo a pagar, nem que seja visualizar a publicidade quer seja o reencaminhado para p√°ginas web, entre outras.
 
-Um exemplo de software gratuito È o Adobe Reader um dos mais populares leitores de fciheiros em formato PDF.
+Um exemplo de software gratuito √© o Adobe Reader um dos mais populares leitores de fciheiros em formato PDF..
