@@ -1,0 +1,13 @@
+{
+    "name": "lovelex/composer",
+    "description": "Aula php 7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Lovelex",
+            "email": "lukas489@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
