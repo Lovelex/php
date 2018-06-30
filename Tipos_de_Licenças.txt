@@ -1,0 +1,66 @@
+Software proprietário
+Neste tipo de licença, toda a cópia, redistribuição (o termo “passar a alguém”), ou modificação são estritamente proibidas, 
+o que pode levar a processos judiciais. Para contornar as restrições anteriormente referidas, deve-se contactar o criador 
+para que este dê permissão para o fazer, ou então adquirir uma licença para cada um dos casos anteriormente descritos.
+
+Neste tipo de licença, encontramos vinculados alguns dos mais conhecidos programas mundiais, caso do Windows, Adobe Photoshop,
+ Adobe Dreamweaver, Adobe Flash, Mac OS, entre outros…
+
+
+
+GNU General Public License (GPL)
+O GPL é a licença com maior utilização por parte de projectos de software livre, em grande parte pela sua utilização no mundo
+ Linux.
+
+3 grandes restrições que gerem e protegem o software com licença GPL:
+
+-Software livre pode ser distribuído e comercializado por qualquer pessoa, mas o distribuidor tem de avisar o receptor acerca
+ dos termos GPL
+-Qualquer pacote de software derivado de software protegido pela GPL, também tem de estar abrangido pela GPL
+-Código fonte de todo o software protegido pela GPL tem de estar acessível publicamente
+
+
+
+Software livre
+O conceito “Software Livre” refere-se a qualquer programa que pode ser usado, copiado, estudado, modificado e redistribuído sem 
+nenhuma restrição. Este conceito opõe-se ao conceito de “software proprietário”, mas não ao termo de “software comercial”. 
+Este tipo de licença, como o próprio nome dá a entender, baseia-se em quatro liberdades:
+
+Liberdade de executar o programa, para qualquer propósito;
+Liberdade de estudar como o programa funciona e adaptá-lo para as suas necessidades. Para tal o acesso ao código – fonte é 
+necessário.
+Liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo.
+Liberdade de aperfeiçoar o programa, e libertar os seus aperfeiçoamentos, para que deste modo, toda a comunidade se beneficie 
+deles. Para tal o acesso ao código – fonte é necessário.
+
+
+
+Código aberto
+Normalmente, gosto mais de utilizar o termo em inglês “open source” e refere-se ao mesmo software chamado de software livre, 
+ou seja aquele que respeita as quatro liberdades anteriormente referidas. A única diferença entre os dois está no discurso. 
+Enquanto o termo “software livre” é usado em questões éticas, direitos e liberdade, o termo “código aberto” é utilizado para 
+discursar sobre o ponto de vista puramente técnico, sem que leve a conflitos de questões éticas.
+
+
+
+Software comercial
+Software desenvolvido por uma empresa com fins lucrativos com a sua utilização. É de referir que “comercial” e “proprietário” 
+não são o mesmo, pois, a maioria do software comercial é software proprietário mas existe software livre que é comercial, 
+e existe software não-livre e não-comercial (software proprietário que não esta a venda por nenhum preço, apenas existem 
+limitações a nível de modificação do mesmo).
+
+
+
+Software gratuito (freeware)
+Mais conhecido por freeware é qualquer programa cuja utilização não implica o pagamento de licenças para a sua utilização.
+
+Mas não se enganem que para este tipo de licença que não é necessário o contrato de licenciamento para a sua utilização. 
+Normalmente, ao instalar um software deste tipo, o utilizador deverá concordar com o seu contrato de licenciamento que 
+normalmente acompanha o programa, pois neste podem estar restrições como sendo freeware de uso pessoal, académico, 
+militar e governamental. Pois, não é por ser freeware que ele pode ser utilizado por qualquer um.
+
+Normalmente os programas deste tipo não apresentam o seu código fonte, apenas apresenta o executável. Programas do tipo adware 
+não são considerados gratuitos, mesmo que não seja necessário pagar, pois tem sempre um custo a pagar, nem que seja visualizar 
+a publicidade quer seja o reencaminhado para páginas web, entre outras.
+
+Um exemplo de software gratuito é o Adobe Reader um dos mais populares leitores de fciheiros em formato PDF.
